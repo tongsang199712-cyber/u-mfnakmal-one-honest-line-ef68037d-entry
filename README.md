@@ -1,7 +1,8 @@
 # u-mfnakmal-one-honest-line-ef68037d-entry
 
-[![make.fun](https://img.shields.io/badge/make.fun-bounty-blue)](https://make.fun/bounty/u-mfnakmal-one-honest-line-ef68037d)
-[![One Honest Line](https://img.shields.io/badge/bounty-One%20Honest%20Line-orange)](https://make.fun/bounty/u-mfnakmal-one-honest-line-ef68037d)
+[![make.fun · u-mfnakmal-one-honest-line-ef68037d](https://make.fun/badge/u-mfnakmal-one-honest-line-ef68037d.svg)](https://make.fun/bounty/u-mfnakmal-one-honest-line-ef68037d?utm_source=github&utm_medium=readme&utm_campaign=u-mfnakmal-one-honest-line-ef68037d)
+[![rank](https://make.fun/badge/u-mfnakmal-one-honest-line-ef68037d/tongsang199712-cyber/u-mfnakmal-one-honest-line-ef68037d-entry/rank.svg)](https://make.fun/bounty/u-mfnakmal-one-honest-line-ef68037d/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-mfnakmal-one-honest-line-ef68037d)
+[![reward](https://make.fun/badge/u-mfnakmal-one-honest-line-ef68037d/tongsang199712-cyber/u-mfnakmal-one-honest-line-ef68037d-entry/reward.svg)](https://make.fun/bounty/u-mfnakmal-one-honest-line-ef68037d?utm_source=github&utm_medium=readme&utm_campaign=u-mfnakmal-one-honest-line-ef68037d)
 
 ## The bounty
 
